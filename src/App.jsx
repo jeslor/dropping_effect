@@ -4,8 +4,8 @@ import ImageSlider from './components/imageSlider/imageSlider'
 const App = () => {
   return (
     <div className="h-screen w-screen bg-[#18181a] flex flex-col ">
-      <h1 className="text-5xl text-slate-300 my-6 text-center">CSS Mask animation</h1>
-      <ImageSlider />
+      <h1 className="text-5xl text-slate-300 my-6 text-center">CSS Shape outside</h1>
+
     </div>
   )
 }
