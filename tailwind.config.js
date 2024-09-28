@@ -7,10 +7,19 @@ export default {
   theme: {
     extend: {
       keyframes:{
+        dropSize:{
+          0:{width: ""}
+        },
         dropDown: {
-          "0%":{transform: "translateY(-20px)"},
-          "20%":{transform: "translateY(10px)"},
-          "100%": {transform: "translateY(100vh)"}
+          "0%":{transform: "translateY(-20px)",
+            opacity:"0.2"
+          },
+          "20%":{transform: "translateY(10px)",
+            opacity:"100"
+          },
+          "100%": {transform: "translateY(100vh)",
+            opacity:"100"
+          }
         }
       },
       animation: {
