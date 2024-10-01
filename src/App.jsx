@@ -13,7 +13,8 @@ const App = () => {
         </div>
      </div>
 
-        <div style={{transform:"rotateX(71deg)"}} className='h-[300px] w-[300px] mx-auto relative border-[4px] rounded-full bottom-0 rotate'>
+        <div style={{transform:"rotateX(71deg)"}} className='h-[300px] w-[300px] mx-auto border-[4px] rounded-full bottom-0 rotate bg-slate-800 relative'>
+          <div className="absolute h-[300px] w-[301px] -left-[2px] top-1/2 bg-slate-500 border-[4px] border-t-0 rounded-b-lg"></div>
         </div>
         
     </div>
