@@ -23,7 +23,7 @@ export default {
         }
       },
       animation: {
-        fallDown:"dropDown 10s ease-in-out infinite"
+        fallDown:"dropDown 400s ease-in-out infinite"
       }
     },
   },

@@ -7,8 +7,8 @@ const App = () => {
      <h1 className="text-5xl text-slate-300 my-6 text-center">CSS Shape outside</h1>
         <div className='h-[300px] w-[300px] mx-auto relative'>
           <img className='h-full w-full object-cover relative z-[1]' src="/assets/images/orange.png" alt="" />
-          <div className='h-[30px] w-[30px] bg-[#fe8238] rounded-full flex justify-center left-1/2 -mt-3 absolute z-[2] animate-[dropDown_3s_ease-in-out_infinite]'>
-            <span className='block h-[17px] w-[17px] bg-[#fe8238] -mt-[2px] rotate-45'></span>
+          <div className='h-[30px] w-[600px] bg-[#fe8238] rounded-full flex justify-center left-1/2 -mt-3 absolute z-[2] animate-[dropDown_3s_ease-in-out_infinite]'>
+            <span className='block h-[30px] w-[17px] bg-[#fe8238] -mt-[2px] rotate-45'></span>
           </div>
         </div>
      </div>
