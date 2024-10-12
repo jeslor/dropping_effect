@@ -1,10 +1,27 @@
-# CSS Shape-Outside Techniques 🌟
+# 🍊 Drop Juice Animation
 
-This project demonstrates the use of the `shape-outside` CSS property to create dynamic and visually engaging layouts where text wraps around non-rectangular shapes like circles, polygons, and images.
+A fun, fluid animation that mimics juice drops falling into a container. Built with **React** and **Tailwind CSS**.
 
-## Features 🚀
+## ✨ Features
+- Smooth, looping juice drop animation 💧
+- Lightweight and responsive using Tailwind CSS 📱
+- Easy to customize and integrate into any React project ⚡
 
-- **Circular Shapes**: Wrap text around circular elements using `shape-outside: circle()`. 
-- **Polygon Shapes**: Define custom shapes (triangles, hexagons, etc.) with `shape-outside: polygon()`.
-- **Image Contours**: Let text flow around irregular images using `shape-outside: url()`.
+## 🛠️ Tech Stack
+- **React**: Component-based JavaScript library for building the UI.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+  
+## 🚀 Getting Started
 
+### Prerequisites
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) >= 14
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/drop-juice-animation.git
+   cd drop-juice-animation
