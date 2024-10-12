@@ -23,5 +23,5 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/drop-juice-animation.git
+   git clone https://github.com/jeslor/drop-juice-animation.git
    cd drop-juice-animation
